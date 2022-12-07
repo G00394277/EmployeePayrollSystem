@@ -9,5 +9,5 @@ public class EmployeeTest
     int phone = "08312345678";
     string gender = "Male";
     string employment = "FullTime";
-    int age = 25;
+    int age = 24;
 }
