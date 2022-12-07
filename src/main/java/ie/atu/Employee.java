@@ -16,4 +16,15 @@ public class Employee
         }
     }
 
+    public static void checkPpsID(get.ppsID)
+    {
+        if (ppsID.length() == 6)
+        {
+
+        }
+        else
+        {
+            throw new Exception();
+        }
+    }
 }
